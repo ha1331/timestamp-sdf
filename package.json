@@ -21,7 +21,9 @@
     "moment": "^2.18.1"
   },
   "scripts": {
-    "run": "node index.js"
+    "start": "node index.js"
+  }, "engines": {
+    "node": "7.9.0"
   }
 
 }
